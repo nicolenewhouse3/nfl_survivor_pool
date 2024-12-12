@@ -27,13 +27,10 @@ This Python script helps you make smarter survivor pool picks by:
 - **Reoptimization**: Adjusts selections each week based on new odds and teams already picked.
 
 ### How to Use
-1. Clone the repository:
-  - git clone https://github.com/yourusername/nfl-survivor-pool-optimizer.git
-2. Install the required Python packages:
-  - pip install requests pandas pulp
+1. Clone the repository: git clone https://github.com/yourusername/nfl-survivor-pool-optimizer.git
+2. Install the required Python packages: pip install requests pandas pulp
 3. Replace your_api_key in the script with your API key from The Odds API.
-4. Run the script:
-  - python nfl_survivor_pool_optimizer.py
+4. Run the script: python nfl_survivor_pool_optimizer.py
 5. Review the optimized picks printed to the console.
 
 ### Notes
